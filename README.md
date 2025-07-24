@@ -31,6 +31,21 @@ Ce projet vise à analyser le déploiement des sites 4G fixe (4G Home) en France
 - **LaTeX** : rédaction du rapport PDF
 ---
 
+## 📊 Données utilisées
+
+Les données utilisées proviennent du site officiel de l’[ARCEP](https://www.arcep.fr/), à travers les arrêtés trimestriels relatifs au New Deal Mobile. Les champs principaux incluent :
+
+| Champ                  | Description                                              |
+|------------------------|----------------------------------------------------------|
+| `numero_site`          | Identifiant unique du site                               |
+| `region`               | Nom de la région                                          |
+| `departement`          | Département du site                                       |
+| `sites_demandes`       | Site demandé dans un arrêté                               |
+| `sites_mes`            | Site mis en service                                       |
+| `x_lambert_93`, `y_lambert_93` | Coordonnées du barycentre en Lambert 93         |
+
+
+
 ## 📊 Analyses SQL réalisées
 
 - Évolution trimestrielle des sites non encore mis en service
