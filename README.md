@@ -69,8 +69,7 @@ Une cartographie simple a été réalisée pour localiser les sites demandés et
 
 ## 📄 Rapport PDF
 
-Le rapport complet (analyse + tableaux + cartes) est disponible dans le dossier `/latex/`.  
-👉 [Lien vers le rapport](./rapport_SQL_4GFIXE_ARCEP.pdf)
+Le rapport complet (analyse + tableaux + cartes) est disponible 👉 [Lien vers le rapport](./rapport_SQL_4GFIXE_ARCEP.pdf) réalisé en LateX
 
 ---
 
