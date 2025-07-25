@@ -82,4 +82,4 @@ Le rapport complet (analyse + tableaux + cartes) est disponible 👉 [Lien vers 
 ---
 
 
-![Carte-France](taux_realisation)
+![Carte-France](taux_realisation.png)
