@@ -67,6 +67,9 @@ Une cartographie simple a été réalisée pour localiser les sites demandés et
 > ⚠️ Carte des zones avec retards  
 > 📍 Affichage par département (taux de réalisation)
 
+Cette carte montre, pour chaque département, le taux de réalisation au T1 2024, calculé comme le rapport entre le nombre de sites mobiles mis en service et le nombre de sites demandés non mis en service.
+![Carte-France](taux_realisation.png)
+
 ---
 
 ## 📄 Rapport PDF
@@ -80,6 +83,3 @@ Le rapport complet (analyse + tableaux + cartes) est disponible 👉 [Lien vers 
 
 - Mise à jour automatique des données
 ---
-
-
-![Carte-France](taux_realisation.png)
